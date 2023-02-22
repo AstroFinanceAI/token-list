@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/astrofidev/token-list/master/src/tokens/images/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/astrofinanceai/token-list/master/src/tokens/images/logo.png",
   "keywords": [
     "astrofidev",
     "default"
@@ -219,7 +219,7 @@
       "address": "0x360111d897d32614619F37f151061c8D431a47f9",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/astrofidev/token-list/master/src/tokens/images/0x360111d897d32614619F37f151061c8D431a47f9.png"
+      "logoURI": "https://raw.githubusercontent.com/astrofinanceai/token-list/master/src/tokens/images/0x360111d897d32614619F37f151061c8D431a47f9.png"
     },
     {
       "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",

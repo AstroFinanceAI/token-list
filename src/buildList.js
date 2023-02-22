@@ -12,8 +12,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/astrofidev/token-list/master/src/tokens/images/logo.png",
-    keywords: ["astrofidev", "default"],
+    logoURI: "https://raw.githubusercontent.com/astrofinanceai/token-list/master/src/tokens/images/logo.png",
+    keywords: ["astrofinanceai", "default"],
     tokens: [...mainnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

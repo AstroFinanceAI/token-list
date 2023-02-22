@@ -1,5 +1,5 @@
 {
-  "name": "@astrofidev/token-list",
+  "name": "@astrofinanceai/token-list",
   "version": "1.0.0",
   "description": "◦ The astrofi default token list",
   "main": "build/token-list.json",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astrofidev/token-list.git"
+    "url": "git+https://github.com/astrofinanceai/token-list.git"
   },
   "keywords": [
     "astrofi",
@@ -24,9 +24,9 @@
   "author": "Astrofidev",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/astrofidev/token-list/issues"
+    "url": "https://github.com/astrofinanceai/token-list/issues"
   },
-  "homepage": "https://github.com/astrofidev/token-list#readme",
+  "homepage": "https://github.com/astrofinanceai/token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
