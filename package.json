@@ -1,0 +1,38 @@
+{
+  "name": "@astrofidev/token-list",
+  "version": "1.0.0",
+  "description": "◦ The astrofi default token list",
+  "main": "build/token-list.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "node src/write.js > build/token-list.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/token-list.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astrofidev/token-list.git"
+  },
+  "keywords": [
+    "astrofi",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Astrofidev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/astrofidev/token-list/issues"
+  },
+  "homepage": "https://github.com/astrofidev/token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
